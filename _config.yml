@@ -90,11 +90,7 @@ pageviews:
 #
 theme_mode: # [light | dark]
 
-{% capture prefer_mode %}
-  {% if site.theme_mode == "dual" %}
-    mode="dark"
-  {% endif %}
-{% endcapture %}
+
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
