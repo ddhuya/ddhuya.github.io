@@ -1,2 +1,10 @@
 ---
 title: "Pico CTF 2025 - Challenge Writeups"
+date: 2023-03-25 00:00:00 +0800
+categories: [Pico]
+tags: [Pico]
+---
+
+#Pico CTF 2025 - Challenge Writeups
+
+This is my Pico CTF 2025 challenges writeups
