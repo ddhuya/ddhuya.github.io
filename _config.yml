@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: # [light | dark]
 {% capture prefer_mode %}
   {% if site.theme_mode == "dual" %}
     mode="dark"
