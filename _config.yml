@@ -100,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/ddhuya/ddhuya.github.io/refs/heads/main/CTF/WebSockfish/484325346_1872542540189569_2559818092796154947_n.jpg
+avatar: /CTF/WebSockfish/484325346_1872542540189569_2559818092796154947_n.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
